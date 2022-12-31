@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Design-website-navbar-bg {
+    background-color: #0c0521;
+}
+
+.Design-website-navbar-logo {
+    height: 50px;
+}
+
+.Design-website-home-page-bg-container {
+    background-image: url('https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png');
+    height: 90vh;
+    background-size: cover;
+}
+
+.Design-website-home-page-heading {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.Design-website-home-page-para {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #fff;
+}
+
+.Design-website-home-page-flexible {
+    color: #ffdda9;
+}
+
+.Design-website-sign-up-btn {
+    border-width: 0;
+    border-radius: 20px;
+    background-color: #ffdda9;
+    height: 50px;
+    width: 160px;
+    font-weight: bold;
+}
+
+.Design-website-logos-section-bg-container {
+    background-color: #f9fbfe;
+
+}
+
+.Design-website-logos-section-heading {
+    font-size: 21px;
+    font-family: "Roboto";
+}
+
+.Design-website-deliver-img {
+    height: 240px;
+}
+
+.Design-website-deliver-card-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 26px;
+    /* font-weight: bold; */
+}
+
+.Design-website-deliver-card-para {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.Design-website-tools-card-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Design-website-tools-card-para {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.Design-website-features-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.Design-website-features-para {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.Design-website-features-card-img {
+    height: 90px;
+}
+
+.Design-website-features-card-heading {
+    font-family: "Roboto";
+    font-size: 22px;
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.Design-website-features-card-para {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #7b8794;
+}
